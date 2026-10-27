@@ -4,7 +4,14 @@
       "title": "Свечелье | свечи • декор • подарки",
       "subtitle": "Ручная работа и магия в каждой свече",
       "url": "https://t.me/svechelie",
-      "order": 10,
+      "order": 1,
+      "visible": true
+    },
+    {
+      "title": "Сладкие сюрпризы от Елены Двуреченской",
+      "subtitle": "Сахарные букеты | Шары с предсказаниями | Торты с индивидуальным дизайном",
+      "url": "https://t.me/elena_dvurechenskaya",
+      "order": 2,
       "visible": true
     }
   ]
